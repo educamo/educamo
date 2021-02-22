@@ -1,11 +1,14 @@
-# Hi I Am Cesar Carrasco
+# Hi, I Am Cesar Carrasco :smiley:
 ### A FullStack Web Developer
 
-- :heart_eyes: my passion: :computer: Program, :camera: the Photography, :movie_camera: the Movies 
+- :heart_eyes: my passion: :computer: Program, :camera: the Photography, :movie_camera: the Movies & :video_game: VideoGame
 
 - :bookmark_tabs: my website [Portafolio](http://eduardocarrasco.photography/Portafolio/)
 
-- 📫 How can you contact me educamo@hotmail.com
+- :mailbox: How can you contact me educamo@hotmail.com
+
+- :pencil: language: __Spanish__ & __English__
+
 
 ### Connect with me:
 
