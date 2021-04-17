@@ -1,26 +1,57 @@
 # Hi, I Am Cesar Carrasco :smiley:
 ### A FullStack Web Developer
 
+![](https://visitor-badge.glitch.me/badge?page_id=educamo.educamo)
+
 <br />
 
 I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently live in Colombia - Medellin.
 
-- :heart_eyes: my passion: :computer: Program, :camera: the Photography, :movie_camera: the Movies & :video_game: VideoGame
+<p align="center"> :heart_eyes: my passion: :computer: Program, :camera: the Photography, :movie_camera: the Movies & :video_game: VideoGame </p>
 
-- :bookmark_tabs: my website of photography [Portafolio](http://eduardocarrasco.photography/)
+<br />
+
+- :bookmark_tabs: my website [Portafolio](http://eduardocarrasco.photography/Portafolio)
+
+- 📝 [Resume](https://educamo.github.io/portafolio/assets/pdf/resumen-curricular-Cesar-Eduardo-Carrasco.pdf)
 
 - :mailbox: How can you contact me educamo@hotmail.com
 
 - :pencil: language: __Spanish__ & __English__
 
 - 💬 Ask me about anything, I am happy to help
+
 - 📫 How to reach me: [@educamo](https://twitter.com/educamo)
-- 📝 [Resume](https://educamo.github.io/portafolio/)
 
 
+**Languages, Frameworks and Tools:**  
 
-![](https://visitor-badge.glitch.me/badge?page_id=educamo.educamo)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<table>
+<thead>
+<tr>
+<th colspan="2">Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Full Name</th><td>Cesar Eduardo Carrasco Monsalva</td></tr>
+<tr><th scope='row'>Date of Birth</th><td><time datetime="1982-04-13 05:30">April 13, 1982</time></td></tr>
+<tr><th scope='row'>Country of Birth</th><td>Venezuela, Valencia</td></tr>
+<tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
+<tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer Full Stacks</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML5, CSS3, JavaScript, Php</td></tr>
+<tr><th scope='row'>Stuff I've worked with</th><td>
+HTML, CSS, JavaScript, PHP 5, Laravel 5.8, CodeIgniter, 
+WordPress</td></tr>
+<tr><th scope='row'>Hobbies</th><td>Tennis, Photography, Cine, Travel, VideoGames</td></tr>
+</tbody>
+</table>
+
+<br />
 
 ### Connect with me:
 
