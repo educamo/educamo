@@ -7,17 +7,17 @@
 
 I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently live in Colombia - Medellin.
 
-<p align="center"> :heart_eyes: my passion: :computer: Program, :camera: the Photography, :movie_camera: the Movies & :video_game: VideoGame </p>
+<p align="center"> :heart_eyes: my passion: :computer: Programming, :camera: the Photography, :movie_camera: Movies & :video_game: Video Games </p>
 
 <br />
 
-- :bookmark_tabs: my website [Portafolio](http://eduardocarrasco.photography/Portafolio)
+- :bookmark_tabs: my [Portfolio](http://eduardocarrasco.photography/Portafolio)
 
 - 📝 [Resume](https://educamo.github.io/portafolio/assets/pdf/resumen-curricular-Cesar-Eduardo-Carrasco.pdf)
 
 - :mailbox: How can you contact me [![Gmail Badge](https://img.shields.io/badge/-educamo@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:educamo@hotmail.com)](mailto:educamo@hotmail.com)
 
-- :pencil: language: __Spanish__ & __English__
+- :pencil: Language: __Spanish__ & __English__
 
 - 💬 Ask me about anything, I am happy to help
 
