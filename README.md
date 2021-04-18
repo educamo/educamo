@@ -15,13 +15,15 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 
 - 📝 [Resume](https://educamo.github.io/portafolio/assets/pdf/resumen-curricular-Cesar-Eduardo-Carrasco.pdf)
 
-- :mailbox: How can you contact me educamo@hotmail.com
+- :mailbox: How can you contact me [![Gmail Badge](https://img.shields.io/badge/-educamo@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:educamo@hotmail.com)](mailto:educamo@hotmail.com)
 
 - :pencil: language: __Spanish__ & __English__
 
 - 💬 Ask me about anything, I am happy to help
 
 - 📫 How to Connect with me: [@educamo](https://twitter.com/educamo)
+
+<hr />
 
 
 **Programming Languages, Frameworks and Tools:**  
@@ -37,6 +39,8 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 ![CodeIgniter](https://img.shields.io/badge/-Codeigniter-orange?style=flat-square&logo=codeigniter)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+<hr />
 
 
 <table>
@@ -73,16 +77,21 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 
 ## Learning
 
-![React Js](https://img.shields.io/badge/-reactjs-black?style=flat-square&logo=react.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![Redux](https://img.shields.io/badge/-redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
 
 
 ### Follow Me:
 
-<p align="left">
-<a href="https://www.facebook.com/cesarcarrascowebdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="César Eduardo Carrasco M" height="30" width="40" /></a>
-<a href="http://www.instagram.com/swadevelop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="César Eduardo Carrasco M." height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/educamo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="César Eduardo Carrasco M." height="30" width="40" /></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-educamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/educamo/)](https://www.linkedin.com/in/educamo/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/educamo)](https://github.com/educamo)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cesarcarrascowebdev)](https://www.facebook.com/cesarcarrascowebdev)
+[![Instagram](https://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=http://www.instagram.com/swadevelop)](http://www.instagram.com/swadevelop)
+
+
+
 
