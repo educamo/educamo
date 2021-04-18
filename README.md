@@ -85,6 +85,8 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 
 <hr />
 
