@@ -43,10 +43,8 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 <tr><th scope='row'>Country of Birth</th><td>Venezuela, Valencia</td></tr>
 <tr><th scope='row'>College Degree</th><td>B.S. in Computer Science</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web & Mobile App Developer Full Stacks</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML5, CSS3, JavaScript, Php</td></tr>
-<tr><th scope='row'>Stuff I've worked with</th><td>
-HTML, CSS, JavaScript, PHP 5, Laravel 5.8, CodeIgniter, 
-WordPress</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML5, CSS3, JavaScript, Php, SCRUM</td></tr>
+<tr><th scope='row'>Stuff I've worked with</th><td>HTML, CSS, JavaScript, PHP 5, Laravel 5.8, CodeIgniter, WordPress, Figma, UX, Jira</td></tr>
 <tr><th scope='row'>Hobbies</th><td>Tennis, Photography, Cine, Travel, VideoGames</td></tr>
 </tbody>
 </table>
