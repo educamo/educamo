@@ -1,5 +1,5 @@
 # Hi, I Am Cesar Carrasco :smiley:
-### A FullStack Semi - Senior Web Developer
+### Semi - Senior Web Developer FullStack
 
 ![](https://visitor-badge.glitch.me/badge?page_id=educamo.educamo)
 
@@ -21,7 +21,7 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to Connect with me: [@educamo](https://twitter.com/educamo)
+- 📫 How to Connect with me: [![Twitter](https://img.shields.io/badge/-@educamo-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/educamo/follow?screen_name=educamo "Follow on Twitter")
 
 <hr />
 
@@ -33,12 +33,15 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-green?style=flat-square&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-darkblue?style=flat-square&logo=bootstrap)
-![Php](https://img.shields.io/badge/-Php-563D7C?style=flat-square&logo=php)
-![Mysql](https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql)
-![Postgresql](https://img.shields.io/badge/Postgres-blueviolet?style=flat-square&logo=postgresql)
-![CodeIgniter](https://img.shields.io/badge/-Codeigniter-orange?style=flat-square&logo=codeigniter)
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Php](https://img.shields.io/badge/-Php-563D7C?style=or-the-badge-square&logo=php)
+![Mysql](https://img.shields.io/badge/Mysql-white?style=or-the-badge-square&logo=mysql)
+![Postgresql](https://img.shields.io/badge/Postgres-blueviolet?style=or-the-badge-square&logo=postgresql)
+![CodeIgniter](https://img.shields.io/badge/-Codeigniter-ec914a?style=or-the-badge-square&logo=codeigniter)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=or-the-badge-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=or-the-badge-square&logo=git)
+![Linux](https://img.shields.io/badge/-linux-white?style=or-the-badge-square&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/-apache-af0744?style=or-the-badge-square&logo=apache&logoColor=violet)
+
 
 <hr />
 
@@ -83,13 +86,15 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
 
+<hr />
+
 
 ### Follow Me:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-educamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/educamo/)](https://www.linkedin.com/in/educamo/)
+[![Linkedin](https://img.shields.io/badge/-educamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/educamo/)](https://www.linkedin.com/in/educamo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/educamo)](https://github.com/educamo)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cesarcarrascowebdev)](https://www.facebook.com/cesarcarrascowebdev)
+[![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cesarcarrascowebdev)](https://www.facebook.com/cesarcarrascowebdev)
 [![Instagram](https://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=http://www.instagram.com/swadevelop)](http://www.instagram.com/swadevelop)
 
 
