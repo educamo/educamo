@@ -21,7 +21,7 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to Connect with me: [![Twitter](https://img.shields.io/badge/-@educamo-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/educamo/follow?screen_name=educamo "Follow on Twitter")
+- 📫 How to Connect with me: [![Twitter](https://img.shields.io/badge/-@educamo-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/educamo/ "Follow on Twitter")
 
 <hr />
 
