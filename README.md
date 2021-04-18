@@ -26,10 +26,18 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
 
 **Programming Languages, Frameworks and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-green?style=flat-square&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-darkblue?style=flat-square&logo=bootstrap)
+![Php](https://img.shields.io/badge/-Php-563D7C?style=flat-square&logo=php)
+![Mysql](https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql)
+![Postgresql](https://img.shields.io/badge/Postgres-blueviolet?style=flat-square&logo=postgresql)
+![CodeIgniter](https://img.shields.io/badge/-Codeigniter-orange?style=flat-square&logo=codeigniter)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 <table>
 <thead>
@@ -60,6 +68,14 @@ I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently l
   <img src="https://github-readme-stats.vercel.app/api?username=educamo&show_icons=true&theme=gotham" alt="C. Eduardo Carrasco" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=educamo&layout=compact&theme=gotham" />
 </p>
+
+<hr />
+
+## Learning
+
+![React Js](https://img.shields.io/badge/-reactjs-black?style=flat-square&logo=react.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
 ### Follow Me:
