@@ -5,7 +5,7 @@
 
 <br />
 
-I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently live in Colombia - Medellin.
+I am a Web/Mobile App Developer. I was born in Venezuela 🇻🇪, I currently live in Venezuela - Valencia.
 
 <p align="center"> :heart_eyes: my passion: :computer: Programming, :camera: the Photography, :movie_camera: Movies & :video_game: Video Games </p>
 
