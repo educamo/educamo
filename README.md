@@ -1,4 +1,4 @@
-![Logo](https://github.com/educamo/educamo/blob/main/path950.png)
+![Logo](https://github.com/educamo/educamo/blob/main/path950.png)([https://ejemplo.com](https://github.com/educamo/))
 
 # Hi, I Am Cesar Carrasco :smiley:
 ### Semi - Senior Web Developer FullStack
